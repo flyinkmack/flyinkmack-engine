@@ -1,0 +1,16 @@
+Fly Ink Mack Engine – Proprietary License Notice
+
+This software is a customized and rebranded fork of MediaMTX (MIT License) and incorporates proprietary branding, design, and features unique to Fly Ink Tattoo Parlor LLC.
+
+Fly Ink®, Fly Ink Mack™, and Fly Ink Tattoo Parlor® are registered trademarks of Fly Ink Tattoo Parlor LLC.
+No rights or licenses are granted for the use, reproduction, modification, or distribution of these trademarks without express written permission.
+
+Redistribution, resale, sublicensing, or public hosting of this rebranded software without written consent from Fly Ink Tattoo Parlor LLC is strictly prohibited.
+
+This software is provided **"AS IS"**, without warranties of any kind, express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+Fly Ink Tattoo Parlor LLC does **not endorse, support, or provide warranties for any use, fork, or deployment** of this software by third parties. Use at your own risk.
+
+**Modifying, altering, or removing any Fly Ink® branding, trademarks, or embedded identity from this software is strictly forbidden.**
+
+© 2025 Fly Ink Tattoo Parlor LLC. All rights reserved.
